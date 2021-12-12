@@ -1,0 +1,16 @@
+{
+  "name": "decrypt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "image-size": "^1.0.0",
+    "multer": "^1.4.3",
+    "pureimage": "^0.3.6"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
